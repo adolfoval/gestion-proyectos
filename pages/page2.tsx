@@ -6,7 +6,7 @@ const page2 = () => {
         <div>
             Page2
             <Link href="/">
-                <p>Ir al index.</p>
+                <a>Ir al index.</a>
             </Link>
         </div>
     )

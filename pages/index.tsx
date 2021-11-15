@@ -6,7 +6,7 @@ const Home: NextPage = () => {
     <div className="bg-green-500">
       Hola mundo
       <Link href="page2">
-      <p>Ir a pagina 2.</p>
+      <a>Ir a pagina 2.</a>
       </Link>
     </div>
   )
