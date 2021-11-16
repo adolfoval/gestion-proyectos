@@ -1,9 +1,13 @@
 import React from 'react'
 import Link from "next/link"
+import Head from "next/head"
 
-const page2 = () => {
+const adminUsuarios = () => {
     return (
         <div>
+            <Head>
+                <title>Admin Usuarios | Gestion de proyectos</title>
+            </Head>
             Page2
             <Link href="/">
                 <a>Ir al index.</a>
@@ -12,4 +16,4 @@ const page2 = () => {
     )
 }
 
-export default page2
+export default adminUsuarios

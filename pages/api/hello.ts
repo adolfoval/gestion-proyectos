@@ -10,7 +10,7 @@ export default function handler(
   res: NextApiResponse<Data>
 ) {
   if(req.method === "GET"){
-    
+    // console.log("Esto es codigo back");
     res.status(200).json({ name: 'Fue get' })
   }
 
