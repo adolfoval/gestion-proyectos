@@ -9,7 +9,7 @@ const Home: NextPage = () => {
       <Head>
                 <title>Admin Usuarios | Gestion de proyectos</title>
             </Head>
-      Hola mundo
+      Hola mundo desde index main
       <Link href="page2">
       <a>Ir a pagina 2.</a>
       </Link>
