@@ -11,7 +11,7 @@ class MyDocument extends Document {
         return (
             <Html>
                 <Head>
-                    <script src="https://kit.fontawesome.com/d4cd33a1a3.js" crossOrigin="anonymous" />
+                <script src="https://kit.fontawesome.com/d4cd33a1a3.js" crossOrigin="anonymous" />
                 </Head>
                 <body>
                     <Main />
