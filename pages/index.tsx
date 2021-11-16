@@ -10,7 +10,7 @@ const Home: NextPage = () => {
       </Head>
       Hola mundo -dev
       <Link href="adminUsuarios">
-      <a>Ir a pagina 2.</a>
+      <a>Ir a pagina usuario desde main.</a>
       </Link>
       <div>
         <i className = "fas fa-home"/>

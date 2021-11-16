@@ -10,7 +10,7 @@ const adminUsuarios = () => {
             </Head>
             Page2
             <Link href="/">
-                <a>Ir al index.</a>
+                <a>Ir al index desde main.</a>
             </Link>
         </div>
     )
