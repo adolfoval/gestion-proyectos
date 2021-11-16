@@ -8,7 +8,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Home | Gestion de proyectos - dev</title>
       </Head>
-      Hola mundo
+      Hola mundo -dev
       <Link href="adminUsuarios">
       <a>Ir a pagina 2.</a>
       </Link>
